@@ -1,0 +1,21 @@
+body {
+    font: 16pt Arial;
+}
+
+button {
+    font: 16pt Arial;
+    padding: 32px;
+}
+
+mark#aprov {
+    background-color: rgba(16, 223, 16, 0.582);
+}
+
+mark#reprov {
+    background-color: rgba(219, 41, 41, 0.63);
+}
+
+mark#recu {
+    background-color: rgba(255, 255, 0, 0.616);
+    color:rgb(248, 224, 9);
+}
